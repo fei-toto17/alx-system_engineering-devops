@@ -1,2 +1,2 @@
-#!/bin/bash 
-ls -la --numeric-uid-grid -A
+#!/bin/bash
+la -lan
