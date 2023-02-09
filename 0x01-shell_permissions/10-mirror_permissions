@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 354 - ollen hello
+chmod --reference=ollen hello
